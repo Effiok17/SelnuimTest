@@ -49,6 +49,7 @@ public class Facebook {
 		
 		
 		//using PartialLinkText
+		driver.findElement(By.partialLinkText("Glömt")).click();
 		
 		
 		//using CSS
