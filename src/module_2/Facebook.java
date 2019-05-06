@@ -52,6 +52,8 @@ public class Facebook {
 		driver.findElement(By.partialLinkText("Glömt")).click();
 		
 		
+		
+
 		//using CSS
 		//using TagName
 		//using XPath
