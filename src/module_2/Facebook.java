@@ -45,6 +45,7 @@ public class Facebook {
 		
 		driver.navigate().back();
 		driver.navigate().forward();
+		driver.navigate().back();
 		
 		
 		//using PartialLinkText
@@ -54,12 +55,6 @@ public class Facebook {
 		//using TagName
 		//using XPath
 		
-
 	}
-
-	private static void forward() {
-		// TODO Auto-generated method stub
-		
-	}
-
+	
 }
